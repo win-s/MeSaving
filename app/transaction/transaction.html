@@ -1,0 +1,26 @@
+<section>
+	<table class="table table-hover">
+		<thead>
+			<tr>
+				<th>Owner</th>
+				<th>Type</th>
+				<th>Amount</th>
+				<th>Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="transaction in transactions">
+				<td>
+					<label>{{transaction.owner}}</label>
+					<select>
+						<option>
+						</option>
+					</select>
+				</td>
+				<td>{{transaction.type}}</td>
+				<td>{{transaction.amount}}</td>
+				<td>{{transaction.date | date:'medium'}}</td>
+			</tr>
+		</tbody>
+	</table>
+</section>

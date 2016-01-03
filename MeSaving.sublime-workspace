@@ -1,0 +1,1616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_loade",
+				"_loadedPromise"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"tra",
+				"transactionObj"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"direc",
+				"verbose_directive	AngularJS"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"H3",
+				"h3	Tag"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"remainder",
+				"remainderTextNumber"
+			],
+			[
+				"text",
+				"text-warning"
+			],
+			[
+				"te",
+				"textData"
+			],
+			[
+				"toggle",
+				"toggleDom_"
+			],
+			[
+				"ccy",
+				"ccyPairId_"
+			],
+			[
+				"mid",
+				"midId_"
+			],
+			[
+				"as",
+				"askId_"
+			],
+			[
+				"bid",
+				"bidId_"
+			],
+			[
+				"image",
+				"imageButtonId_"
+			],
+			[
+				"curr",
+				"currencyPairId_"
+			],
+			[
+				"ty",
+				"typeableInputBehavior_"
+			],
+			[
+				"cu",
+				"currentValue_"
+			],
+			[
+				"deltaco",
+				"deltaConvddl2"
+			],
+			[
+				"deltac",
+				"deltaConvLabel"
+			],
+			[
+				"d",
+				"deltaPercentage"
+			],
+			[
+				"Even",
+				"Eventype"
+			],
+			[
+				"selected",
+				"setSelectedIndex"
+			],
+			[
+				"stri",
+				"strikePut"
+			],
+			[
+				"str",
+				"strikeCall"
+			],
+			[
+				"h",
+				"hideAll"
+			],
+			[
+				"hide",
+				"hideCall"
+			],
+			[
+				"element",
+				"elementID"
+			],
+			[
+				"delta",
+				"deltaPercentage"
+			],
+			[
+				"de",
+				"deltaLabel"
+			],
+			[
+				"get",
+				"getSelectedItemChangedEvent"
+			],
+			[
+				"sp",
+				"spaceLabel"
+			],
+			[
+				"c",
+				"controlsID"
+			],
+			[
+				"pr",
+				"previousValue_"
+			],
+			[
+				"sim",
+				"simple"
+			],
+			[
+				"settin",
+				"settingChartHolderID"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"su",
+				"setupChart"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/view1/view1.js",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index-async.html",
+			"settings":
+			{
+				"buffer_size": 3318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/view1/view1.html",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transactionConstant.js",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transactionController.js",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/TransactionFactory.js",
+			"settings":
+			{
+				"buffer_size": 879,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transaction.js",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transactionsModel.js",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Windows",
+				"name": "angular.module('');"
+			}
+		},
+		{
+			"file": "app/transaction/TransactionsFactory.js",
+			"settings":
+			{
+				"buffer_size": 879,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transaction.html",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/transaction/transactionNetworkService.js",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2367,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sever/app.js",
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"web ",
+				"Web Inspector"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syangul",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax:j",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syn:j",
+				"Set Syntax: JSON"
+			],
+			[
+				"set sy:ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set",
+				"Set Syntax: Java"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"p",
+				"AngularJS: Look Up Definition"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work/angular/traning-angular/MeSaving",
+		"/D/work/angular/traning-angular/MeSaving/app",
+		"/D/work/angular/traning-angular/MeSaving/app/transaction",
+		"/D/work/angular/traning-angular/MeSaving/app/view1",
+		"/D/work/angular/traning-angular/MeSaving/sever"
+	],
+	"file_history":
+	[
+		"/D/work/angular/traning-angular/MeSaving/app/transaction/TransactionsFactory.js",
+		"/D/work/angular/traning-angular/MeSaving/app/index-async.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/swi.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Web Inspector/swi.sublime-settings",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/partials/forms-list.html",
+		"/D/work/learning/excercise/tableFixedHeader.html",
+		"/D/work/learning/excercise/test4.html",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/test.html",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/css/reset.css",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/demo.js",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/css/myTheme.css",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/css/demo.css",
+		"/D/work/learning/excercise/jquery/Fixed-Header-Table-master/demo/css/960.css",
+		"/D/work/learning/excercise/tabFixedHeader.html",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/js/directives.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/AngularJS-sublime-package-master/AngularJS-sublime-package.sublime-settings",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/bower_components/angular-animate/angular-animate.js",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/D/work/angular/traning-angular/TopElevenProject/topeleven.sublime-project",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/partials/forms-detail.added.html",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/js/controllers.js",
+		"/D/work/learning/magic-cake.html",
+		"/D/work/learning/regular-band.html",
+		"/D/work/learning/recipes.html",
+		"/D/work/learning/about.html",
+		"/D/work/learning/magic-cake.css",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/behaviors/NonOverridenBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/behaviors/OverridenBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/Interfaces/controls/uit/IBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/Interfaces/controls/uit/IOverridenBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/ControlsBase.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/TextBox.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/behaviors/NonTypeableInputChangedBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/TextLabel.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/behaviors/TypeableInputChangedBehavior.js",
+		"/D/work/Cal/FXVol/Experimental2/fxvol/dev/web/js/common/HttpRequest.js",
+		"/D/work/Cal/FXVol/Experimental2/fxvol/dev/web/js/common/Service.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/dist/fxvol.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/Gruntfile.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/package.json",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/app_config.json",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/app.json",
+		"/D/work/Cal/FXVol/fxvolresponse.json",
+		"/D/work/Cal/FXVol/calculator-fxo/calculator-fxo/dev/web/js/App.js",
+		"/D/work/Cal/FXVol/calculator-fxo/calculator-fxo/dev/web/js/deps.js",
+		"/D/work/Cal/FXVol/calculator-fxo/calculator-fxo/dev/index.html",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/index.html",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/service/TracsService.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/service/FxvService.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/main.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/Toolbar.js",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/package.json",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/app/.bowerrc",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/test/e2e/scenarios.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/service/FxSurfaceTabMockUp.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/js/controllers.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/js/app.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/index.html",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/js/filters.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/partials/phone-detail.html",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/partials/phone-list.html",
+		"/D/work/angular/traning-angular/TopEleven/package.json",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/config",
+		"/D/work/angular/traning-angular/TopElevenProject/angular_topeleven/.gitignore",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/npm-debug.log",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat/app/bower_components/angular/angular.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/js/app.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/js/filters.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/index.html",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/js/services.js",
+		"/D/work/angular/traning-angular/PhoneCat/angular-phonecat-master/app/js/directives.js",
+		"/C/Users/User/Desktop/temp/gen.html",
+		"/D/work/angular/traning-angular/verify.html",
+		"/D/work/angular/traning-angular/http.html",
+		"/D/work/angular/traning-angular/HelloWorld.html",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controllers/BannerController.js",
+		"/D/work/Cal/FXVol/fxvolrequest.json",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/common/services/TracsServiceManager.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/common/serializes/Base.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controls/SurfaceInput.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controls/ChartLegend.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/common/Util.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/ControlNames.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/ControlId.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/Eventype.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/RequestName.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/ResponseName.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controllers/Base.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controllers/SettingController.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controllers/SurfaceTabController.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/SmileChart.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/Chart2D.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/eventTargets/OnControllerChanged.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/events/OnControlChanged.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/eventTargets/OnControlChanged.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/common/serializes/TracsRequest.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/NumericBox.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/events/OnControllerChanged.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/requestName.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/SurfaceInput.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/eventTargets/OnDataUpdate.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/events/OnDataUpdate.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/ToggleBidAsk.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controls/ToggleBidAsk.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/ToggleBidAskState.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/App.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controllers/BannerController.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/NumericTextBox.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/Section.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/Dropdown.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/DatePicker.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/ComboBox.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/NumericBoxMinMax.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/NumericTextBoxMinMax.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controllers/SurfaceTab.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/uit/ChartLegend.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/interfaces/controls/uit/ITypeableInputChangedBehavior.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/KeyCodes.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/NumericMinMax.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/Events/controls/uit/OnChanged.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/Tab.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/models/controls/Tab.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/Interfaces/controls/IValidation.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/controls/validation/MinMax.js",
+		"/D/work/Cal/FXVol/dev/fx-volatility/dev/web/js/enums/EventName.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\work\\angular\\traning-angular\\MeSaving\\app",
+			"D:\\work\\Cal\\FXVol\\Experimental2\\fxvol\\dev\\web\\js",
+			"D:\\work\\angular\\spring-board\\app_server\\Apps\\NewDiscovery"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transacitonsModel",
+			"run",
+			"myApp",
+			"overflow-x",
+			"overflow-x: hidden;",
+			"overflow",
+			"grid_8",
+			"svgModule.",
+			"topelevenDirectives.",
+			"}]);",
+			"overridenBehavior_",
+			"dispatchOnChangedEvent",
+			"onDbClick_",
+			"overridenBehavior_",
+			"requestUrlCurrencyChanged_",
+			"READY_STATE_CHANGE",
+			"COMPLETE",
+			"goog.net.EventType.COMPLETE",
+			"onSuccessCallback_",
+			"READY_STATE_CHANGE",
+			"wireEvent_",
+			"postRequest",
+			"headers_",
+			"requestUrlCurrencyChanged_",
+			"requestUrlNormal_",
+			"doRequest_",
+			"requestAsync_",
+			"url",
+			"volSourceService_",
+			"http",
+			"http;",
+			"url",
+			"node-inspector",
+			"appengine",
+			"closureDepsWriter",
+			"appengine",
+			"mainImageUrl",
+			"imageurl",
+			"phones",
+			"MRTransaction",
+			"Material",
+			"materialId",
+			"mrtCode",
+			"mtCode",
+			"MTransaction",
+			"userId",
+			"User",
+			"mrtReceiveBy",
+			"mrtAuthBy",
+			"mrtDate",
+			"mrtCode",
+			"MRTransaction",
+			"Material",
+			"RawMaterial",
+			"materialId",
+			"productId",
+			"BoM",
+			"userId",
+			"User",
+			"Department",
+			"departmentId",
+			"mrtReciever",
+			"mrtAuthBy",
+			"mrt_typeName",
+			"mrt_typeId",
+			"MRTType",
+			"Unit",
+			"unitId",
+			"materialName",
+			"materialId",
+			"Material",
+			"name",
+			"departmentId",
+			"Department",
+			"unitName",
+			"unitId",
+			"Unit",
+			"name",
+			"user_idSequence",
+			"userId",
+			"User",
+			"user",
+			"usr_id_seq",
+			"UserIdSequence",
+			"RawMaterialSequence",
+			"UserIdSequence",
+			";\n",
+			"+=']';\n",
+			";\n",
+			"onChanged",
+			");\n",
+			"Create_ETKHalfMoonButton",
+			"toggle",
+			"24px",
+			");\n",
+			";\n",
+			")\n",
+			"minDom",
+			"dom",
+			"domObj",
+			";\n",
+			"this",
+			"bannerContent_",
+			"dom_",
+			"dom",
+			"();\n",
+			"fxvol.controls.NumericBoxMinMax",
+			"fxvol.controls.NumericBoxMinMax ",
+			"ctrlDom_",
+			"{\n",
+			"BidAsk",
+			"create",
+			"attribute",
+			"goog",
+			"};",
+			"();",
+			"imageButton_",
+			"');\n",
+			"ccypair",
+			"dom_",
+			"dependencies",
+			"();\n",
+			"isvalidate",
+			"tr.ui.",
+			"input",
+			"tr.core..*behavior\"",
+			"tr.core..*behavior",
+			"behavior"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"mrt",
+			"material",
+			"material_id",
+			"mrt_code",
+			"mt_code",
+			"mt",
+			"user_id",
+			"user",
+			"mrt_receive_by",
+			"mrt_auth_by",
+			"mrt_date",
+			"mrt_code",
+			"mrt",
+			"material",
+			"bom",
+			"material_id",
+			"product_id",
+			"boM",
+			"user_id",
+			"user",
+			"department",
+			"department_id",
+			"mrt_reciever",
+			"mrt_auth_by",
+			"mrt_type_name",
+			"mrt_type_id",
+			"mrt_type",
+			"unit",
+			"unit_id",
+			"material_name",
+			"material_id",
+			"material",
+			"department_name",
+			"department_id",
+			"department",
+			"unit_name",
+			"unit_id",
+			"unit",
+			"user_name",
+			"user_id_seq",
+			"user_id",
+			"user",
+			"user_id_seq",
+			"usr_id_seq",
+			"raw_material_seq",
+			"user_id_sequence",
+			"domObj_",
+			"fxvol.controls.ToggleBidAsk",
+			"fxvol.interfaces.controls.validations.CallPut",
+			"fxvol.model.controls.Tab",
+			"fxvol.model.controls.OnOffTarget",
+			"fxvol.controls.behaviors.NonOverridenBehavior.",
+			"fxvol.controls.behaviors.OverridenBehavior.",
+			"fxvol.controls.behaviors.OverridenBehavior",
+			"fxvol.interfaces.controls.uit.",
+			"onOffsID",
+			"fxvol.model.onOffMenu",
+			"onOffMenu",
+			"OnOffTarget",
+			"onOffMenu",
+			"onOffsID",
+			"onOffMenuID",
+			"ONOFF_TITLE",
+			"ONOFF_TARGET",
+			"onOffList",
+			"fxvol.controls.OnOffTarget",
+			"Tab",
+			"fxvol.controls.Tab",
+			"itemID",
+			"show",
+			"spaceddlItem",
+			"tr.ui.DropdownItem",
+			"this.controls.spaceddl",
+			".TextLabel",
+			"fxvol.controls.SurfaceInput.prototype.controls.",
+			"fxvol.controls.SurfaceInput.prototype.controlsID.",
+			"fxvol.controls.SurfaceInput.prototype.controlsID",
+			"fxvol.controls.SurfaceInput.",
+			"#app-content",
+			"ControlsBas",
+			"app-content",
+			"fxvol.controls.uit.NumericBox",
+			"fxvol.controls.uit.NumbericBox",
+			"fxvol.",
+			"FXVol.models.controls.BusinessChart",
+			"contentHolder",
+			"title",
+			"contentHolderID",
+			"titleID",
+			"FXVol.controls.VerticalExpander"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/view1/view1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index-async.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 532.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/view1/view1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/transaction/transactionConstant.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/transaction/transactionController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/transaction/TransactionFactory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/transaction/transaction.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/transaction/transactionsModel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"auto_name": "angular.module('');",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/transaction/TransactionsFactory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/transaction/transaction.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "app/transaction/transaction.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/transaction/transactionConstant.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/transaction/transactionsModel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"auto_name": "angular.module('');",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/transaction/TransactionsFactory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/transaction/transactionNetworkService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/transaction/transaction.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2367,
+								2367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "sever/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.468412338797,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MeSaving.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tra",
+				"app\\transaction\\transaction.html"
+			],
+			[
+				"tran.",
+				"app\\transaction\\transaction.js"
+			],
+			[
+				"",
+				"app\\transaction\\transactionController.js"
+			],
+			[
+				"tran",
+				"app\\transaction\\transaction.html"
+			],
+			[
+				"transcations",
+				"app\\transaction\\TransactionsFactory.js"
+			],
+			[
+				"contro",
+				"app\\transaction\\transactionController.js"
+			],
+			[
+				"tranmo",
+				"app\\transaction\\transactionsModel.js"
+			],
+			[
+				"tranc",
+				"app\\transaction\\transactionConstant.js"
+			],
+			[
+				"transcf",
+				"app\\transaction\\TransactionFactory.js"
+			],
+			[
+				"tarnmo",
+				"app\\transaction\\transactionsModel.js"
+			],
+			[
+				"tranct",
+				"app\\transaction\\transactionController.js"
+			],
+			[
+				"trasactionsmodel",
+				"app\\transaction\\transactionsModel.js"
+			],
+			[
+				"trans",
+				"app\\transaction\\transaction.js"
+			],
+			[
+				"controller",
+				"app\\transaction\\transactionController.js"
+			],
+			[
+				"app.js",
+				"app\\app.js"
+			],
+			[
+				"trancon",
+				"app\\transaction\\transactionConstant.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 672.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
